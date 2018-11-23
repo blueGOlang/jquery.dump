@@ -1,0 +1,24 @@
+{
+  "name": "jquery.dump",
+  "version": "1.1",
+  "main": "dist/jquery.dump.min.js",
+  "description": "jQuery dump plugin. Inspect object properties in a popup window.",
+  "homepage": "https://github.com/mdmin/jquery.dump",
+  "repository": "git://github.com/mdmin/jquery.dump.git",
+  "keywords": [
+    "jquery",
+    "dump",
+    "jquery dump",
+    "jquery debug",
+    "jquery popup"
+  ],
+  "author": "mdmin <mdmin@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1"
+  }
+}
